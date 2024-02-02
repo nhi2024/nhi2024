@@ -11,7 +11,7 @@ http://172.26.1.3:8089/jamio/gazitv//playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/K9LVVR8/IMG-20240129-063524.png",MADINA Tv
 http://172.26.1.3:8089/jamio/tsportsbd//playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="ISLAMIC",ATN ISLAMIC TV
-http://172.26.1.3:8089/amrbd/T-Sports/chunks.m3u8?nimblesessionid=313611462
+http://172.26.1.3:8089/amrbd/T-Sports/chunks.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Prjwwcb/pngwing-com.png" group-title="ISLAMIC", AL QURAN AL QAREEM
